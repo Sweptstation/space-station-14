@@ -1,7 +1,7 @@
-﻿#nullable enable
-using Content.Server.GameObjects.EntitySystems;
+#nullable enable
 using Content.Server.Utility;
 using Content.Shared.Chemistry;
+using Content.Shared.GameObjects.EntitySystems;
 using Content.Shared.Interfaces.GameObjects.Components;
 using Robust.Shared.GameObjects;
 using Robust.Shared.Localization;
@@ -31,7 +31,7 @@ namespace Content.Server.GameObjects.Components.Chemistry
         public override void ExposeData(ObjectSerializer serializer)
         {
             base.ExposeData(serializer);
-            serializer.DataField(ref _catalystPrototype, "catalyst", "chem.H2O");
+            serializer.DataField(ref _catalystPrototype, "catalyst", "chem.Water");
             serializer.DataField(ref _targetPrototype, "target", null);
         }
 
