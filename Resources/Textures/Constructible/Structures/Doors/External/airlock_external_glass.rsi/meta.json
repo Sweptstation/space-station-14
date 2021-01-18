@@ -8,16 +8,46 @@
   },
   "states": [
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "closed",
       "directions": 1
     },
     {
       "name": "closed_unlit",
       "directions": 1
+=======
+      "name": "bolted",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "locked",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "closed",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "closed_unlit",
+      "delays": [
+        []
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
     },
     {
       "name": "closing",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -31,7 +61,6 @@
     },
     {
       "name": "closing_unlit",
-      "directions": 1,
       "delays": [
         [
           0.6,
@@ -40,7 +69,6 @@
     },
     {
       "name": "deny",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -50,12 +78,24 @@
       ]
     },
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "bolted",
       "directions": 1
     },
     {
       "name": "panel_closing",
       "directions": 1,
+=======
+      "name": "open",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "opening",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
       "delays": [
         [
           0.2,
@@ -68,8 +108,12 @@
       ]
     },
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "panel_opening",
       "directions": 1,
+=======
+      "name": "opening_unlit",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
       "delays": [
         [
           0.2,
@@ -82,12 +126,16 @@
       ]
     },
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "open",
       "directions": 1
     },
     {
       "name": "opening",
       "directions": 1,
+=======
+      "name": "panel_closing",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
       "delays": [
         [
           0.2,
@@ -100,8 +148,12 @@
       ]
     },
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "opening_unlit",
       "directions": 1,
+=======
+      "name": "panel_open",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
       "delays": [
         [
           0.2,
@@ -109,12 +161,30 @@
       ]
     },
     {
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "name": "panel_open",
       "directions": 1
     },
     {
       "name": "sparks",
       "directions": 1,
+=======
+      "name": "panel_opening",
+      "delays": [
+        [
+          0.4,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.3
+        ]
+      ]
+    },
+    {
+      "name": "spark",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
       "delays": [
         [
           0.1,
@@ -128,7 +198,6 @@
     },
     {
       "name": "sparks_broken",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -141,7 +210,6 @@
     },
     {
       "name": "sparks_damaged",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -155,7 +223,6 @@
     },
     {
       "name": "sparks_open",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -168,7 +235,15 @@
     },
     {
       "name": "welded",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external_glass.rsi/meta.json
       "directions": 1
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_cargo.rsi/meta.json
     }
   ]
 }

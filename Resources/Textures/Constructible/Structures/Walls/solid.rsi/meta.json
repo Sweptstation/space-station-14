@@ -8,10 +8,14 @@
   },
   "states": [
     {
+<<<<<<< HEAD
       "name": "full",
       "select": [],
       "flags": {},
       "directions": 1
+=======
+      "name": "full"
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac
     },
     {
       "name": "solid0",
@@ -63,7 +67,6 @@
     },
     {
       "name": "reinf_construct-0",
-      "directions": 1,
       "delays": [
         [
           1
@@ -72,7 +75,6 @@
     },
     {
       "name": "reinf_construct-1",
-      "directions": 1,
       "delays": [
         [
           1
@@ -81,7 +83,6 @@
     },
     {
       "name": "reinf_construct-2",
-      "directions": 1,
       "delays": [
         [
           1
@@ -90,7 +91,6 @@
     },
     {
       "name": "reinf_construct-3",
-      "directions": 1,
       "delays": [
         [
           1
@@ -99,7 +99,6 @@
     },
     {
       "name": "reinf_construct-4",
-      "directions": 1,
       "delays": [
         [
           1
@@ -108,7 +107,6 @@
     },
     {
       "name": "reinf_construct-5",
-      "directions": 1,
       "delays": [
         [
           1
@@ -117,7 +115,6 @@
     },
     {
       "name": "reinf_cult",
-      "directions": 1,
       "delays": [
         [
           1
@@ -125,6 +122,25 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "name": "reinf_metal",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "reinf_over",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac
       "name": "reinf_over0",
       "directions": 4,
       "delays": [
@@ -270,7 +286,6 @@
     },
     {
       "name": "rgeneric",
-      "directions": 1,
       "delays": [
         [
           1
@@ -288,7 +303,6 @@
     },
     {
       "name": "wall_girder",
-      "directions": 1,
       "delays": [
         [
           1
@@ -296,8 +310,12 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "grille",
       "directions": 1,
+=======
+      "name": "reinforced_wall_girder",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac
       "delays": [
         [
           1

@@ -9,15 +9,29 @@
   "states": [
     {
       "name": "closed",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external.rsi/meta.json
       "directions": 1
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
     },
     {
-      "name": "closed_unlit",
-      "directions": 1
+      "name": "locked",
+      "delays": [
+        [
+          1
+        ]
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_external.rsi/meta.json
+    },
+    {
+      "name": "closed_unlit"
     },
     {
       "name": "closing",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -31,7 +45,6 @@
     },
     {
       "name": "closing_unlit",
-      "directions": 1,
       "delays": [
         [
           0.6,
@@ -40,7 +53,6 @@
     },
     {
       "name": "deny",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -51,11 +63,18 @@
     },
     {
       "name": "bolted",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external.rsi/meta.json
       "directions": 1
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_external.rsi/meta.json
     },
     {
       "name": "panel_closing",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -69,7 +88,6 @@
     },
     {
       "name": "panel_opening",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -83,11 +101,18 @@
     },
     {
       "name": "open",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external.rsi/meta.json
       "directions": 1
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_external.rsi/meta.json
     },
     {
       "name": "opening",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -101,7 +126,6 @@
     },
     {
       "name": "opening_unlit",
-      "directions": 1,
       "delays": [
         [
           0.2,
@@ -110,11 +134,22 @@
     },
     {
       "name": "panel_open",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external.rsi/meta.json
       "directions": 1
     },
     {
       "name": "sparks",
       "directions": 1,
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "spark",
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_external.rsi/meta.json
       "delays": [
         [
           0.1,
@@ -128,7 +163,6 @@
     },
     {
       "name": "sparks_broken",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -141,7 +175,6 @@
     },
     {
       "name": "sparks_damaged",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -155,7 +188,6 @@
     },
     {
       "name": "sparks_open",
-      "directions": 1,
       "delays": [
         [
           0.1,
@@ -168,7 +200,15 @@
     },
     {
       "name": "welded",
+<<<<<<< HEAD:Resources/Textures/Constructible/Structures/Doors/External/airlock_external.rsi/meta.json
       "directions": 1
+=======
+      "delays": [
+        [
+          1
+        ]
+      ]
+>>>>>>> 719d5b7e2b69211d08f18ae7f5b62411af9c39ac:Resources/Textures/Constructible/Structures/Doors/airlock_external.rsi/meta.json
     }
   ]
 }
